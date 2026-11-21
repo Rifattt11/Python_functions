@@ -14,4 +14,4 @@ def check(s, opened=""):
     return check(s[1:], opened)
 
 
-print(check(input()))(иукро)
+print(check(input()))
